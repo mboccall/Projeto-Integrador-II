@@ -1,0 +1,33 @@
+
+
+Pedro Teste (5512992546176):
+Olá, eu sou a assistente Virtual da *UpriseHr*.
+Você já conhece nossos serviços? 
+ 
+*1*-Sim *2*-Não
+Pedro Teste: 1 - Sim gostaria de agendar
+Pedro Teste: 1
+Pedro Teste: 28/08/2024
+Pedro Teste: Entre 19h e 20h
+Conversa Finalizada
+
+Pedro Teste (5512992546176):
+Olá, eu sou a assistente Virtual da *UpriseHr*.
+Você já conhece nossos serviços? 
+ 
+*1*-Sim *2*-Não
+Pedro Teste: 1 - Sim gostaria de agendar
+Pedro Teste: 28/08/2024
+Pedro Teste: Entre 20h e 22h
+Conversa Finalizada
+
+Pedro Teste (5512992546176):
+Olá, eu sou a assistente Virtual da *UpriseHr*.
+Você já conhece nossos serviços? 
+
+*1*-Sim *2*-Não
+Pedro Teste: 2 - Não, não conhece os serviços.
+Pedro Teste: 28/08/2024
+Pedro Teste: Entre 20h e 21h
+Conversa Finalizada
+
